@@ -1,0 +1,17 @@
+@media(min-width: 776px) {
+    .navbar {
+        background-color: #F2921E !important;
+    }
+
+    .navbar-nav {
+        display: table;
+        width: 100%;
+        margin: 0;
+    }
+
+    .navbar-nav>li {
+        float: none;
+        display: table-cell;
+        text-align: center;
+    }
+}
