@@ -30,7 +30,7 @@
               </div>
               <div class="carousel-item">
                   <img src="image/Slider/3.png" alt="Third slide" width="100%">
-                  <div class="carousel-caption d-none d-md-block" style="padding-bottom: 10%;">
+                  <div class="carousel-caption d-none d-md-block" style="margin-bottom: 12%;">
                     <h2>
                     Urologists and affiliated professionals attending the conference will be able to review innovative techniques and scientific advances in the field of urological oncology, especially on prostate and renal cancer.
                      </h2>
@@ -38,7 +38,7 @@
               </div>
               <div class="carousel-item">
                   <img src="image/Slider/4.png" alt="Third slide" width="100%">
-                  <div class="carousel-caption d-none d-md-block" style="padding-bottom: 10%;">
+                  <div class="carousel-caption d-none d-md-block" style="margin-bottom: 10%;">
                     <h2>
                     They will also find the chance to communicate, collaborate and network with representatives of a large international audience - medical professionals and national urological societies.
                     </h2>
