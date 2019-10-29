@@ -20,8 +20,13 @@
        <p> <span class="h5">Finance Committee Chair</span> <br>
         Dr. Khurshid Jahan Mowla </p>
 
-        <h5 class="d-inline mr-5">Organising Committee</h5> <h5 class="d-inline ml-4">Scientific Committee</h5>
-
+        <h5 class=" mr-5">Organising Committee</h5> 
+        <h5>Member</h5>
+        <p>
+        Dr. Mir Ehteshamul Haque <br>
+        Dr. Faisal Islam <br>
+        Dr. Ibrahim Kaisar
+                </p>
     </div>
 </div>
 <?php include 'footer.php'; ?>

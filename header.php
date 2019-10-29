@@ -15,13 +15,15 @@
   </style>
 </head>
   <body>
-      <div class="container my-4">
+      <div class="container my-2">
           <div class="row">
-              <div class="col-12 col-sm-6 col-lg-8">
-                  <a href="index.php"><img src="image/PNG/Uro-Oncology Logo.png" alt="" width="20%"></a>
-              </div>
-              <div class="col-12 col-sm-6 col-lg-4">
-                  <h6 style="color: #046C94;">Urology and Transplantation Foundation of Bangladesh (UTFB)</h6>
+              <div class="col-sm-6 col-lg-9">
+                  <a href="index.php"><img src="image/Logo 2nd Uro.jpg" alt="" width="27%"></a>
+                  <img src="image/UTFB.jpg" alt="" width="8%;" class="float-right pt-2">
+                </div>
+              <div class="col-sm-6 col-lg-3 pl-0">
+              
+                  <h6 style="color: #046C94;" class="utfb">Urology and Transplantation Foundation of Bangladesh (UTFB)</h6>
               </div>
           </div>
       </div>
@@ -48,7 +50,7 @@
                       <a class="nav-link text-light" href="scientific-program.php">Scientific Program</a>
                   </li>
                   <li class="nav-item ">
-                      <a class="nav-link text-light smenu " href="registration.php">Registraion</a>
+                      <a class="nav-link text-light smenu " href="registration.php">Registration</a>
                   </li>
                   <li class="nav-item ">
                       <a class="nav-link text-light smenu " href="venue.php">Venue</a>
@@ -57,7 +59,7 @@
                       <a class="nav-link text-light dmenu2 " href="visit-bangladesh.php">Visit Bangladesh</a>
                   </li>
                   <li class="nav-item ">
-                      <a class="nav-link text-light smenu " href="#">Contact</a>
+                      <a class="nav-link text-light smenu " href="contact.php">Contact</a>
                   </li>
                   
               </ul>

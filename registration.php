@@ -43,7 +43,7 @@
         </table>
     </div>
     <div class="file mb-5">
-        <a href="file/Registration Form UTFB.pdf" download>Click here to Download Registration From</a>
+        <a href="file/Registration Form UTFB.pdf" download>Click here to Download Registration Form</a>
     </div>
 </div>
 
