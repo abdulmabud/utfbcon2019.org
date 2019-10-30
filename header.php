@@ -32,7 +32,11 @@
           <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId" aria-controls="collapsibleNavId"
               aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span></button>
           <div class="collapse navbar-collapse" id="collapsibleNavId" style="background-color: #F2921E;">
-              <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+             
+          <div class="container">
+
+          
+          <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                   
                   <li class="nav-item">
                       <a class="nav-link text-light smenu " href="welcome.php">Welcome</a>
@@ -63,6 +67,7 @@
                   </li>
                   
               </ul>
-             
+              </div>
           </div>
       </nav>
+
