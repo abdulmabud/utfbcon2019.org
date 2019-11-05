@@ -21,7 +21,7 @@
         padding-top: 21px;
     }
 }
-@media(max-width: 1000px){
+@media(max-width: 991px){
     .utfb{
         padding-top: 0px;
         padding-left: 20px !important;
